@@ -9,4 +9,4 @@ This project addresses this research gap by creating a comprehensive large-N dat
 
 As a whole, the project aims to advance our theoretical and empirical knowledge on conflict-related violence in postwar cities. In turn, this knowledge can be used to theorise preventive measures, explore intraurban conflict dynamics, and assess the impact of conflict-related violence on the constitution and functioning of postwar cities.
 
-[REPOSITORY CURRENTLY UNDER CONSTRUCTION. DATA TO BE ADDED.]
+[REPOSITORY CURRENTLY UNDER CONSTRUCTION. MORE DATA WILL BE ADDED.]
